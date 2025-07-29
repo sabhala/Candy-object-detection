@@ -96,3 +96,4 @@ https://www.kaggle.com/datasets/ruopengan/candy-brands-for-object-detection?reso
 - Milky_Way
 - Snickers
 - Twix
+- Uknown
